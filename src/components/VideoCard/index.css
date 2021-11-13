@@ -1,0 +1,72 @@
+.dark-container {
+  background-color: black;
+  color: white;
+}
+.light-container {
+  background-color: white;
+  color: black;
+}
+
+.card-container {
+  width: 50vw;
+  margin-right: 20px;
+  height: 25vh;
+}
+.thumbnail-image {
+  width: 100%;
+}
+.link-item {
+  text-decoration: none;
+}
+
+.video-item {
+  list-style-type: none;
+  margin-bottom: 48px;
+  flex-grow: 0;
+  flex-shrink: 1;
+  margin-right: 15px;
+}
+
+.channel-logo {
+  height: 55px;
+  margin-top: 20px;
+}
+.details-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-left: 10px;
+}
+
+.title {
+  font-size: 20px;
+}
+.channel-name {
+  margin: 0px;
+}
+
+.view-count {
+  margin-right: 10px;
+}
+.published {
+  margin-left: 10px;
+}
+.video-logo-details-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 5px;
+}
+
+.view-publish-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}

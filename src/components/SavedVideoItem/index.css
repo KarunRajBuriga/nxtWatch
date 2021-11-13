@@ -1,0 +1,10 @@
+.saved-item-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 15vh;
+}
+
+.thumbnail {
+  height: 25vh;
+}

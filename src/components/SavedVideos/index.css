@@ -1,0 +1,14 @@
+.sidebar-body-container {
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+}
+
+@media screen and (min-width: 768px) {
+  .sidebar-body-container {
+    flex-direction: row;
+  }
+}
+.saved-videos-container {
+  padding: 10px;
+}
